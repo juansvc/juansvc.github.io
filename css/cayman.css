@@ -80,6 +80,7 @@ a {
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
+  color: #f3f6fa;
   opacity: 0.7; }
   @media screen and (min-width: 64em) {
     .project-tagline {
