@@ -50,7 +50,7 @@ a {
         margin-left: 0; } }
 
 .page-header {
-  color: #fff;
+  color: #333;
   text-align: center;
   background: #A770EF;
   background: linear-gradient(to right, #FDB99B, #CF8BF3, #A770EF);}
